@@ -1,0 +1,1 @@
+console.log("We start javascript today and I am TERRIFIED")
